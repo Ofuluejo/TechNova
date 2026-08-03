@@ -4,8 +4,7 @@ A modern, responsive React application built with **React Router**, **Tailwind C
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://YOUR_VERCEL_URL.vercel.app
-
+🔗 **Website:** https://tech-nova-topaz.vercel.app/
 ---
 
 ## ✨ Features
